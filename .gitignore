@@ -42,11 +42,8 @@ yarn-error.log*
 posts/*
 !posts/2023-04-27-mdx-syntax-guide.mdx
 !posts/2023-04-27-mdx-syntax-basic.mdx
-!posts/2023-04-27-mdx-syntax-code-block.mdx
-!posts/2023-04-27-mdx-syntax-admonitions.mdx
-!posts/2023-04-27-mdx-syntax-third-party-embeds.mdx
-!posts/2023-04-27-mdx-syntax-code-playground.mdx
-!posts/2023-04-27-mdx-syntax-math-equations.mdx
+!posts/2024-06-01-Sacharn周刊（第1期）.mdx
+!posts/2024-06-01-Sacharn周刊（第2期）.mdx
 src/post-helpers
 public/images/*
 !public/images/test-hero-image.webp
