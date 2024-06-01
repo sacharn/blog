@@ -6,6 +6,9 @@ import Projects from './Projects'
 import FeaturedPosts from './FeaturedPosts'
 
 const skills = [
+  '洞察',
+  '产品规划',
+  '解决方案设计',
   'HTML',
   'CSS',
   'Java',
