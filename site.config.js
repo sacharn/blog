@@ -8,6 +8,8 @@ module.exports = {
   // icon 请在 src/components/Profile.tsx 中修改
   links: [
     { name: 'GitHub', link: 'https://github.com/sacharn' },
+    { name: 'X', link: 'https://twitter.com/sacharn' },
+    { name: 'RSS', link: '/feed.xml' },
     
   ],
   friends: [
