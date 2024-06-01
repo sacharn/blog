@@ -1,16 +1,14 @@
 module.exports = {
-  name: 'Xiaojun',
-  title: 'Xiaojun Zhou',
-  description: '这个人很懒，什么都没有留下',
+  name: 'Sacharn',
+  title: 'Sacharn',
+  description: '哈哈哈哈哈',
   avatar: '/avatar.jpg',
   logo: '/logo.svg',
-  siteUrl: 'https://www.xiaojun.im',
+  siteUrl: 'https://www.sacharn.online',
   // icon 请在 src/components/Profile.tsx 中修改
   links: [
-    { name: 'GitHub', link: 'https://github.com/xiaojundebug' },
-    { name: 'X', link: 'https://twitter.com/xiaojundebug' },
-    { name: '稀土掘金', link: 'https://juejin.cn/user/3386151543772328' },
-    { name: 'RSS', link: '/feed.xml' },
+    { name: 'GitHub', link: 'https://github.com/sacharn' },
+    
   ],
   friends: [
     { name: '赖同学', link: 'https://www.laibh.com' },
