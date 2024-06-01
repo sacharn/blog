@@ -8,19 +8,11 @@ import FeaturedPosts from './FeaturedPosts'
 const skills = [
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Vue2',
-  'Angular2+',
-  'NodeJS',
-  'RxJS',
-  'NestJS',
+  'Java',
+  'Python',
+  'Matlab',
   'Next.js',
-  'WebRTC',
-  'Figma',
-  'Sketch',
-]
+ ]
 
 const Title: React.FC<{ text: string }> = props => {
   const { text } = props
@@ -47,15 +39,12 @@ export default async function Home() {
         <Profile />
 
         <p className="mt-6 break-words leading-loose">
-          I'm a front-end developer who is a bit of a perfectionist (2017 ~ present), currently
-          working in Hangzhou, China 🇨🇳.
+          我是一个解决方案设计师，目前在华为公司南京研究所工作，主要负责终端BG服务领域的权益产品。
         </p>
         <p className="mt-6 break-words leading-loose">
-          I love working in the realm between design and code. Some things that makes me excited are
-          CSS, Design Systems, Animation, crafting excellent component APIs and making interfaces
-          feel fun and human.
+          我热爱创造和体验有趣的产品，喜欢风，海，树，云。
         </p>
-        <p className="mt-6 break-words leading-loose">The following are some of my skills 👇</p>
+        <p className="mt-6 break-words leading-loose">下面是我的技能包 👇</p>
         <div className="flex items-start flex-wrap gap-2 mt-6">
           {skills.map(skill => (
             <Tag key={skill}>{skill}</Tag>
@@ -63,14 +52,14 @@ export default async function Home() {
         </div>
         <Title text={t('home-page.projects')} />
         <Projects />
-        <div className="text-center mt-6">
+        {/* <div className="text-center mt-6">
           <Link
             className="inline-flex items-center justify-center gap-1 font-medium text-zinc-400 border-b border-zinc-400/10 hover:border-zinc-400/50 transition-colors"
-            href="https://github.com/xiaojundebug?tab=repositories&sort=stargazers"
+            href="https://github.com/sacharn?tab=repositories&sort=stargazers"
           >
             {t('home-page.projects.view-all')}
           </Link>
-        </div>
+        </div> */}
         <Title text={t('home-page.posts')} />
         <FeaturedPosts />
         <div className="text-center mt-6">

@@ -5,44 +5,19 @@ import { ArrowRight } from '@/components/icons'
 
 const projects = [
   {
-    name: 'xiaojun.im',
-    desc: 'The source code of this website',
-    url: 'https://github.com/xiaojundebug/xiaojun.im',
+    name: '学术工作',
+    desc: '《A Reconfigurable Intelligent Surface Aided Dual-Function Radar and Communication System》',
+    url: 'https://ieeexplore.ieee.org/document/9743509',
+  },
+   {
+    name: '喜欢的音乐',
+    desc: '喜欢的音乐',
+    url: 'https://music.163.com/playlist?id=905514656&userid=582971318',
   },
   {
-    name: 'unique-ui',
-    desc: 'A mobile component library for Vue2.x',
-    url: 'https://github.com/xiaojundebug/unique-ui',
-  },
-  {
-    name: 'zhuangtai',
-    desc: 'A scalable reactjs state management solution powered by RxJS',
-    url: 'https://github.com/xiaojundebug/zhuangtai',
-  },
-  {
-    name: 'ngx-popup',
-    desc: 'An angular popup component with customizable animations',
-    url: 'https://github.com/xiaojundebug/ngx-popup',
-  },
-  {
-    name: 'ngx-carousel',
-    desc: 'A simple angular carousel component',
-    url: 'https://github.com/xiaojundebug/ngx-carousel',
-  },
-  {
-    name: 'hammerspoon-config',
-    desc: 'My hammerspoon scripts',
-    url: 'https://github.com/xiaojundebug/hammerspoon-config',
-  },
-  {
-    name: 'alfred-npm-search-workflow',
-    desc: 'NPM Workflow for Alfred',
-    url: 'https://github.com/xiaojundebug/alfred-npm-search-workflow',
-  },
-  {
-    name: 'alfred-system-theme',
-    desc: 'Alfred themes inspired on macOS',
-    url: 'https://github.com/xiaojundebug/alfred-system-theme',
+    name: '经验分享',
+    desc: '暑期实习经验分享',
+    url: 'https://scie.njupt.edu.cn/2021/0908/c2863a202553/page.htm',
   },
 ]
 
