@@ -40,7 +40,6 @@ yarn-error.log*
 # 个人隐私文件
 .env
 posts/*
-!posts/2023-04-27-mdx-syntax-guide.mdx
 !posts/2023-04-27-mdx-syntax-basic.mdx
 !posts/2024-06-01-Sacharn周刊（第1期）.mdx
 !posts/2024-06-01-Sacharn周刊（第2期）.mdx
