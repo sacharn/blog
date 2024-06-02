@@ -5,14 +5,24 @@ import { ArrowRight } from '@/components/icons'
 
 const projects = [
   {
-    name: '学术工作',
-    desc: '最佳论文——《A Reconfigurable Intelligent Surface Aided Dual-Function Radar and Communication System》',
+    name: '国际会议',
+    desc: '最佳论文——2022 第二届IEEE联合通信与传感国际研讨会（JC&S）',
     url: 'https://ieeexplore.ieee.org/document/9743509',
+  },
+  {
+    name: '硕士论文',
+    desc: 'IRS增强的DFRC系统联合波束成形优化设计',
+    url: 'https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9snwrPTbbOt7bLzAt0JHeURdx7JlwNJoEOgK-HVx1oUP0k0aq8EYqkCLOc6ySWpTdSOnyTKthts_V1lVGFo3al0EmUuWEw4Q8-4b7DX4Oiy09uNZg_WaYWfIdSRgk2e_2iGXoAV9ZlktQ==&uniplatform=NZKPT&language=CHS',
   },
    {
     name: '负责的产品',
     desc: '设备保修期及权益查询',
     url: 'https://consumer.huawei.com/cn/support/warranty-query/',
+  },
+  {
+    name: '中国专利',
+    desc: '基于物联网云平台的发电机运行监测系统',
+    url: 'https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9uqNZZ9HlKJhCIWvfLiJFmZEJsxdtC_4r5ic-bEBddZZXGcQ-6BvkV8Co7BkDKcVA4ZAgqYwhLsOfOOXBPsPkNXpyg9jWuqVXbQ0150eQy4NCyAxcSmshGI_Z4jqHj4VvI=&uniplatform=NZKPT&language=CHS',
   },
   {
     name: '经验分享',
