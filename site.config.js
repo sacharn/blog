@@ -20,7 +20,7 @@ module.exports = {
     { name: 'wallleap', link: 'https://myblog.wallleap.cn' },
   ],
   // en | zh-CN
-  language: 'en',
+  language: 'zh-CN',
   // 侧边目录
   toc: true,
   // 显示上一篇下一篇按钮

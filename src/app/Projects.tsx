@@ -6,13 +6,13 @@ import { ArrowRight } from '@/components/icons'
 const projects = [
   {
     name: '学术工作',
-    desc: '《A Reconfigurable Intelligent Surface Aided Dual-Function Radar and Communication System》',
+    desc: '最佳论文——《A Reconfigurable Intelligent Surface Aided Dual-Function Radar and Communication System》',
     url: 'https://ieeexplore.ieee.org/document/9743509',
   },
    {
-    name: '喜欢的音乐',
-    desc: '喜欢的音乐',
-    url: 'https://music.163.com/playlist?id=905514656&userid=582971318',
+    name: '负责的产品',
+    desc: '设备保修期及权益查询',
+    url: 'https://consumer.huawei.com/cn/support/warranty-query/',
   },
   {
     name: '经验分享',
