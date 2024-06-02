@@ -13,11 +13,15 @@ module.exports = {
     
   ],
   friends: [
-    { name: '赖同学', link: 'https://www.laibh.com' },
-    { name: '鯊手', link: 'https://www.cnblogs.com/Scooby' },
-    { name: '戴兜', link: 'https://im.daidr.me' },
-    { name: 'lufangzhou', link: 'https://zhoufanglu.github.io/vuepressBlog' },
-    { name: 'wallleap', link: 'https://myblog.wallleap.cn' },
+    { name: '程普', link: 'https://juejin.cn/user/26044008768029' },
+    { name: '阮一峰', link: 'https://www.ruanyifeng.com/blog/' },
+    { name: 'Airing', link: 'https://blog.ursb.me/' },
+    { name: '酷 壳 – COOLSHELL', link: 'https://coolshell.cn/' },
+    { name: 'labuladong', link: 'https://labuladong.online/algo/' },
+    { name: 'bearblog热门', link: 'https://bearblog.buzzing.cc/' },
+    { name: 'steve精选', link: 'https://arc.net/space/F379BCF7-0597-4C0C-803E-862A1E6DBDD4' },
+    { name: '亚奇洛贝', link: 'https://sacharn.github.io/#/' },
+    
   ],
   // en | zh-CN
   language: 'zh-CN',
