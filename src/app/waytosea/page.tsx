@@ -9,7 +9,7 @@ import useTranslation from '@/hooks/useTranslation'
 
 const links: { name: string; link: string }[] = config.waytosea || []
 
-export default function waytosea() {
+export default function Waytosea() {
   const { t } = useTranslation()
   const transitions = useTransition(links, {
     from: { scale: 0.5, opacity: 0 },
