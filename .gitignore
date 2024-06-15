@@ -44,6 +44,7 @@ posts/*
 !posts/2024-06-01-Sacharn周刊（第1期）.mdx
 !posts/2024-06-01-Sacharn周刊（第2期）.mdx
 !posts/2024-06-10-Sacharn周刊（第3期）.mdx
+!posts/2024-06-15-Sacharn周刊（第4期）.mdx
 src/post-helpers
 public/images/*
 !public/images/test-hero-image.webp

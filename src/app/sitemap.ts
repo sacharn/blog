@@ -22,6 +22,14 @@ export default async function sitemap() {
       url: getSiteUrl('/friends').href,
       lastModified: new Date(),
     },
+    {
+      url: getSiteUrl('/waytosea').href,
+      lastModified: new Date(),
+    },
+    {
+      url: getSiteUrl('/about').href,
+      lastModified: new Date(),
+    },
   ] satisfies MetadataRoute.Sitemap
 
   const posts = await getLatestPosts()
