@@ -64,7 +64,7 @@ const page = () => {
                     <div className="timeline-end mb-10">
                         <time className="font-mono italic">2008</time>
                         <div className="text-lg font-black">初中</div>
-                        就读于泰州实验学习
+                        就读于泰州实验学校
                     </div>
                     <hr />
                 </li>
