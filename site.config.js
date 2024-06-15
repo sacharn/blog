@@ -23,9 +23,13 @@ module.exports = {
     { name: '亚奇洛贝', link: 'https://sacharn.github.io/#/' },
     
   ],
-
   waytosea: [
     { name: 'Generate. Refine. Ship.', link: 'https://v0.dev/' },
+    { name: 'vercel', link: 'https://vercel.com/' },
+    { name: 'cloudflare', link: 'https://www.cloudflare-cn.com/' },
+    { name: 'upstash', link: 'https://upstash.com/' },
+    { name: 'daisyui', link: 'https://daisyui.com/' },
+    { name: 'jike精选', link: 'https://web.okjike.com/originalPost/6579a1e0492ec2e1bb31b0a6' },
     
   ],
   // en | zh-CN
