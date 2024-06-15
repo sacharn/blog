@@ -133,6 +133,7 @@ const Header = () => {
       { label: t('nav.tags'), href: '/tags' },
       { label: t('nav.friends'), href: '/friends' },
       { label: t('nav.waytosea'), href: '/waytosea' },
+      { label: t('nav.about'), href: '/about' },
     ],
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [],
