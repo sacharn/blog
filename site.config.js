@@ -23,6 +23,11 @@ module.exports = {
     { name: '亚奇洛贝', link: 'https://sacharn.github.io/#/' },
     
   ],
+
+  waytosea: [
+    { name: 'Generate. Refine. Ship.', link: 'https://v0.dev/' },
+    
+  ],
   // en | zh-CN
   language: 'zh-CN',
   // 侧边目录

@@ -3,6 +3,7 @@
   "nav.posts": "Blog",
   "nav.tags": "Tags",
   "nav.friends": "Friends",
+  "nav.waytosea": "Waytosea",
 
   "home-page.skills": "Skills",
   "home-page.projects": "Work",
@@ -20,6 +21,9 @@
 
   "friends-page.title": "Friends",
   "friends-page.desc": "{{ count }} friends in total",
+
+  "waytosea-page.title": "Waytosea",
+  "waytosea-page.desc": "{{ count }} Waytosea in total",
 
   "code.copy": "Copy",
   "code.copied": "Copied!"
