@@ -6,17 +6,6 @@ import { GitHub, Juejin, RSS, X, Wechat, Email } from 'src/components/icons'
 const page = () => {
     return (
         <div className={clsx(styles.about, 'prose-container flex flex-col items-center justify-center')}>
-            <h2 className={clsx(styles.title, 'relative font-bold text-5xl mt-20 sm:mt-40 italic')}>
-                联系方式
-            </h2>
-            <p className="font-medium text-sm m-10 sm:m-14">
-                <Wechat></Wechat>sacharn
-                <Email></Email>2390980558@163.com
-            </p>
-            
-            <h2 className={clsx(styles.title, 'relative font-bold text-5xl mt-20 sm:mt-40 italic')}>
-                旅程
-            </h2>
 
             <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
 
