@@ -1,11 +1,25 @@
 import React from 'react'
-
+import styles from './styles.module.scss'
+import clsx from 'clsx'
+import { GitHub, Juejin, RSS, X, Wechat, Email } from 'src/components/icons'
 
 const page = () => {
     return (
-        <div>
+        <div className={clsx(styles.about, 'prose-container flex flex-col items-center justify-center')}>
+            <h2 className={clsx(styles.title, 'relative font-bold text-5xl mt-20 sm:mt-40 italic')}>
+                联系方式
+            </h2>
+            <p className="font-medium text-sm m-10 sm:m-14">
+                <Wechat></Wechat>sacharn
+                <Email></Email>2390980558@163.com
+            </p>
+            
+            <h2 className={clsx(styles.title, 'relative font-bold text-5xl mt-20 sm:mt-40 italic')}>
+                旅程
+            </h2>
+
             <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
-                
+
                 <li>
                     <div className="timeline-middle">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
