@@ -11,6 +11,9 @@ const SOCIAL_ICONS: Record<string, React.ReactNode> = {
   'X': <X className="text-xl" aria-hidden />,
   '稀土掘金': <Juejin className="text-xl" aria-hidden />,
   'RSS': <RSS className="text-xl" aria-hidden />,
+}
+
+const SOCIAL_ICONS1: Record<string, React.ReactNode> = {
   'sacharn': <Wechat className="text-xl" aria-hidden />,
 }
 
@@ -48,7 +51,17 @@ const Profile = () => {
               >
                 {SOCIAL_ICONS[name]}
               </a>
+              
             ))}
+
+             <a         
+                className="inline p-2 rounded-full text-2xl transition-opacity opacity-50 hover:opacity-100"
+                title={'sacharn'}
+                aria-label={'sacharn'}
+              >
+                {SOCIAL_ICONS1['sacharn']}
+              </a>
+            
           </div>
         </div>
       </div>
