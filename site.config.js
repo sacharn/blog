@@ -1,14 +1,14 @@
 module.exports = {
   name: 'Sacharn',
   title: 'Sacharn',
-  description: '哈哈哈哈哈',
+  description: '记录，自有其意义',
   avatar: '/avatar.jpg',
   logo: '/logo.svg',
   siteUrl: 'https://www.sacharn.online',
   // icon 请在 src/components/Profile.tsx 中修改
   links: [
     { name: 'GitHub', link: 'https://github.com/sacharn' },
-    { name: 'sacharn', link: '/' },
+    { name: 'sacharn' },
     { name: 'RSS', link: '/feed.xml' },
     
   ],
@@ -20,7 +20,6 @@ module.exports = {
     { name: 'labuladong', link: 'https://labuladong.online/algo/' },
     { name: 'bearblog热门', link: 'https://bearblog.buzzing.cc/' },
     { name: 'steve精选', link: 'https://arc.net/space/F379BCF7-0597-4C0C-803E-862A1E6DBDD4' },
-    { name: '亚奇洛贝', link: 'https://sacharn.github.io/#/' },
     
   ],
   waytosea: [
