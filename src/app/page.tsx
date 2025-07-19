@@ -42,7 +42,7 @@ export default async function Home() {
         <Profile />
 
         <p className="mt-6 break-words leading-loose">
-          我是一个解决方案设计师，目前在华为公司南京研究所工作，主要负责终端BG服务领域的权益产品。
+          我是一个解决方案设计师，目前在华为公司南京研究所工作，主要负责终端BG<del>服务领域的权益产品</del>，零售领域的销售助手产品。
         </p>
         <p className="mt-6 break-words leading-loose">
           我热爱创造和体验有趣的产品，喜欢风，海，树，云。
