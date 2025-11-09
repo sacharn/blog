@@ -45,7 +45,7 @@ export default async function Home() {
           我是一个解决方案设计师，目前在华为公司南京研究所工作，主要负责终端BG<del>服务领域的权益产品</del>，零售领域的销售助手产品。
         </p>
         <p className="mt-6 break-words leading-loose">
-          我热爱创造和体验有趣的产品，喜欢风，海，树，云。
+          我热爱创造和体验有趣的产品，给用户带来价值和美的感受。同时我喜欢风，海，树，云，感受抽象、流动和无边界之美。
         </p>
         <p className="mt-6 break-words leading-loose">下面是我的技能包 👇</p>
         <div className="flex items-start flex-wrap gap-2 mt-6">
